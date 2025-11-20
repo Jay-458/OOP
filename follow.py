@@ -9,7 +9,7 @@ class pika_superman_pro(pika_superman):
         super().attack()
         self.hp += 100
         print("self.hp:", self.hp)
-
+sbnkx
 
 
 if __name__ == "__main__":
